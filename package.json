@@ -1,0 +1,23 @@
+{
+  "name": "university-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-melanson/university-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-melanson/university-api/issues"
+  },
+  "homepage": "https://github.com/daniel-melanson/university-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
